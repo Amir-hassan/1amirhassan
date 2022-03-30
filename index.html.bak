@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-md-3 <!--bg-danger-->">
                 <div class="InfoBar ">
-                    <img class="sahpe3" src="img/Profile/profilepic.jpg" alt="Profile Picture" onmouseover="hover_Profile(this);" onmouseout="unhover_Profile(this);">
+                    <img class="sahpe3" src="img/profile/profilepic.jpg" alt="Profile Picture" onmouseover="hover_Profile(this);" onmouseout="unhover_Profile(this);">
                     <hr />
                     <h4><span style="font-family: DancingScript; font-size: 60px; ">Amir hassan</span></h4>
                     <span>
