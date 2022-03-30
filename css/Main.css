@@ -1,0 +1,100 @@
+@font-face {
+    font-family: DancingScript;
+    src: url(../font/DancingScript-Medium.ttf);
+}
+
+.InfoBar {
+    /*  width: 25%;
+   position: absolute;
+  left: 60px;
+ */
+    text-align: center;
+}
+
+.sahpe3 {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    transition: transform .2s;
+}
+
+    .sahpe3:hover {
+        transform: scale(1.5);
+    }
+
+.icon_link {
+    height: 50px;
+    width: 50px;
+}
+
+.Bio {
+    padding-bottom: 35px;
+    padding-top: 35px;
+}
+
+.InfoBar hr {
+    width: 220px;
+    text-align: center;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+* {
+    box-sizing: border-box
+}
+
+.skill_titel{
+    margin:0px;
+}
+.sk_li
+{
+    margin-left:100px;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+}
+ 
+.tablink {
+    background-color: #DEE2E6;
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 50%;
+}
+
+    .tablink:hover {
+        background-color: #6C757D;
+    }
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    color: #14213D;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+
+#Resome {
+    background-color: #F8F9FA;
+}
+
+#Projects {
+    background-color: #F8F9FA;
+}
+
+#Blog {
+    background-color: #E5E5E5;
+}
+
+#About {
+    background-color: #E5E5E5;
+}
